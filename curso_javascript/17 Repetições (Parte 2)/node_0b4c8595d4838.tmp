@@ -1,0 +1,6 @@
+var c = 1
+var i = c++
+
+for(c; c <= 10; i){
+    console.log(`Passo ${c}`)
+}
